@@ -21,7 +21,7 @@ export class AppComponent {
     },
     {
       name: "A113 Transitional Housing",
-      city: "Santa Monica",
+      city: "Chicago",
       state: "CA",
       photo: "../assets/housing-2.jpg",
       availableUnits: 0,
